@@ -2,3 +2,4 @@
 # Program Title (edit this)
 
 Put your program description here.
+The player will control the charater using the arrow keys left and right to catch the balls falling from the sky in a basket. Each time the player catches a ball in the basket they will gain a point. There will be golden balls that are worth double the amount of points. As time goes on the balls will fall from the sky faster to make it more difficult for the user. If the player misses a ball falling and it ends up past the player at the bottom of the screen the player will lose a life. The user has 3 lives and if the ball drops 3 times it is game over. At the end it will display how many points the player acheived before losing.
